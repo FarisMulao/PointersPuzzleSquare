@@ -12,6 +12,7 @@ Enter the row/column you want to change and the direction you want to turn
 1 D moves the second column down
 
 EX: 
+
     1 3 3 1
     A B C
     D E F
