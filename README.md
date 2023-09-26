@@ -11,7 +11,8 @@ Enter the row/column you want to change and the direction you want to turn
 0 U moves the first column up
 1 D moves the second column down
 
-EX: 1 3 3 1
+EX: 
+    1 3 3 1
     A B C
     D E F
     G H I
@@ -21,4 +22,3 @@ EX: 1 3 3 1
     C B A
     D E F
     G H I
-    
